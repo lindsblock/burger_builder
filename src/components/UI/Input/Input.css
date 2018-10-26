@@ -24,7 +24,12 @@
 .InputElement:focus {
   outline: none;
   background-color: #ccc;
-  width: 100%;
   display: block;
 
+}
+
+.Invalid {
+  border: 1px solid red;
+  background-color: pink;
+  
 }
